@@ -5,9 +5,9 @@ style: black
 favicon: /favicon.ico
 
 menu:
-  Projects: /project
-  Links: /links
-  About: /about
+  About Me: /about
+  Publications: /publications
+  Projects: /projects
   Github: https://github.com/oeway
 
 valine:
